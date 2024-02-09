@@ -5,5 +5,5 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem "activesupport"
-gem "vernier", "~> 0.4.0"
+gem "vernier"
 
