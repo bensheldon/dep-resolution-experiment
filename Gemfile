@@ -2,10 +2,8 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
+plugin "tapioca-bundler-plugin", path: File.expand_path("../vendor/tapioca-bundler-plugin", __FILE__)
 
 gem "activesupport"
 gem "vernier"
-
-
 gem "tapioca", "~> 0.12.0"
