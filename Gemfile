@@ -7,3 +7,5 @@ source "https://rubygems.org"
 gem "activesupport"
 gem "vernier"
 
+
+gem "tapioca", "~> 0.12.0"
