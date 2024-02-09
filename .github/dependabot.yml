@@ -8,5 +8,5 @@ updates:
     vendor: true
     versioning-strategy: increase
     open-pull-requests-limit: 10
-    ignore:
-      - dependency-name: "vernier"
+    # ignore:
+    #   - dependency-name: "vernier"
